@@ -1,0 +1,1 @@
+This project is a simple recipe website created as part of the Odin Project's Foundations course. In completing it, I have demonstrated knowledge of Git and basic HTML.
