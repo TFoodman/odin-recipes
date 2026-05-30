@@ -1,7 +1,43 @@
 body {
     background: #ffeaaa;
+    font-family: 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
+}
+
+.description{
+    font-size: 30px;
+    margin: 0 10em 1em 0;
 }
 
 .easter-egg{
     margin: 100em auto auto auto;
+}
+
+h1 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 60px;
+}
+
+a {
+    color: rgb(115, 2, 2);
+}
+
+img {
+    margin: 2em;
+    border: 5px solid black;
+}
+
+b {
+    padding: 5px;
+}
+
+ul li {
+    display: block;
+    border: 3px solid black;
+    width: 30em;
+    padding: 0.2em;
+}
+
+ol li {
+    padding: 0.2em;
 }
